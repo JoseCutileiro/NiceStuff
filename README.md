@@ -22,3 +22,5 @@ Testing some nice stuff :)
 ### Versão 4:
   1) [ALL] Versão 3
   2) Effects: BubbleSort (missing: other algos for nice effects)
+
+## Versão 5 -> Added Selection Sort
