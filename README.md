@@ -10,3 +10,7 @@ Testing some nice stuff :)
 
 ### Versão 1:
   1) Ver uma única barras com um tamanho qualquer
+ 
+### Versão 2: 
+  1) Versão 1
+  2) Multiplas barras, seguidas lado a lado
