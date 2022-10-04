@@ -18,3 +18,7 @@ Testing some nice stuff :)
 ### Versão 3: 
   1) [ALL] Versão 2
   2) Can sort items (missing: no effect during switches)
+
+### Versão 4:
+  1) [ALL] Versão 3
+  2) missing: other algos for nice effects
