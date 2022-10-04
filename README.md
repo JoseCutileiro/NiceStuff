@@ -21,4 +21,4 @@ Testing some nice stuff :)
 
 ### Versão 4:
   1) [ALL] Versão 3
-  2) missing: other algos for nice effects
+  2) Effects: BubbleSort (missing: other algos for nice effects)
