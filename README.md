@@ -12,5 +12,9 @@ Testing some nice stuff :)
   1) Ver uma única barras com um tamanho qualquer
  
 ### Versão 2: 
-  1) Versão 1
+  1) [ALL] Versão 1
   2) Multiplas barras, seguidas lado a lado
+  
+### Versão 3: 
+  1) [ALL] Versão 2
+  2) Can sort items (missing: no effect during switches)
