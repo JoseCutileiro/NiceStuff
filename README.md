@@ -31,7 +31,7 @@ Testing some nice stuff :)
 
 ------------------------------------------------------------------------------------------------------------
 
-2) Audio Visualization (unity 3D)
+# 2) Audio Visualization (unity 3D)
 
 ### Objetivos:
   1) Efeitos bacanos com múscias 
