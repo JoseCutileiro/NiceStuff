@@ -1,6 +1,8 @@
 # NiceStuff
 Testing some nice stuff :) 
 
+------------------------------------------------------------------------------------------------------------
+
 # 1) Algo view 3d
 
 ### Objetivos:
@@ -26,3 +28,18 @@ Testing some nice stuff :)
 ### Versão 5 -> Added Selection Sort
 
 ### Versão 6 -> Added Insertion Sort
+
+------------------------------------------------------------------------------------------------------------
+
+2) Audio Visualization (unity 3D)
+
+### Objetivos:
+  1) Efeitos bacanos com múscias 
+  2) Mexer barras de acordo com a música
+  3) Fazer 2) com o máximo de smooth effect possivel
+  4) Efeitos com cores (fazer variar uma cor de uma barra com a música)
+  5) Criar objetos no mapa com a variação da música
+  
+ ### Versão 1: 
+  1) As barras já mexem 
+  2) Ainda é tudo muito primitivo (principalmente as centrais)
