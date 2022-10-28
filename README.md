@@ -43,3 +43,10 @@ Testing some nice stuff :)
  ### Versão 1: 
   1) As barras já mexem 
   2) Ainda é tudo muito primitivo (principalmente as centrais)
+  
+------------------------------------------------------------------------------------------------------------
+
+# 3) Audio Visualization (processing)
+
+### Versão 1:
+  1) Base with 8 bands, totally functional (p3d)
