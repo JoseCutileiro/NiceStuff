@@ -44,3 +44,21 @@ Testing some nice stuff :)
   1) As barras já mexem 
   2) Ainda é tudo muito primitivo (principalmente as centrais)
   
+  
+  ### Versão 2: 
+  
+   1) Tudo o que a versão 1 tem
+   2) Barras centrais mais smooth
+   
+   Este projeto irá ser continuado mas fica por aqui neste repositório
+  ------------------------------------------------------------------------------------------------------------
+
+# 2) Audio Visualization (processing)
+
+  1) V1 :Demo 1
+  2) V2: Demo 2
+  (ver no youtube)
+
+
+
+  
