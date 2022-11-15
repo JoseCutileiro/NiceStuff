@@ -14,9 +14,10 @@ int DIV = BLOCK_SIZE * 10;
 float TIME_EFFECT = 0.000001;
 boolean STROKE_FLAG = false;
 
-//color GREEN = #78ED73;
-//color SAND = #F2F560;
-//color COR_MAR = color(0,220,255,100);
+// TERRAIN
+color GREEN = #78ED73;
+color SAND = #F2F560;
+color COR_MAR = color(0,220,255,100);
 
 // HELL
 //color GREEN = #D34444;
@@ -24,9 +25,9 @@ boolean STROKE_FLAG = false;
 //color COR_MAR = color(255,24,20,170);
 
 // VOID
-color GREEN = #000000;
-color SAND = #0D060C;
-color COR_MAR = color(30,20,10,170);
+//color GREEN = #000000;
+//color SAND = #0D060C;
+//color COR_MAR = color(30,20,10,170);
 
 
 
