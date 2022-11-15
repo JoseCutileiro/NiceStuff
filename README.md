@@ -31,7 +31,7 @@ Testing some nice stuff :)
 
 ------------------------------------------------------------------------------------------------------------
 
-# 2) Audio Visualization (unity 3D)
+# 3) Audio Visualization (unity 3D)
 
 ### Objetivos:
   1) Efeitos bacanos com múscias 
@@ -53,7 +53,7 @@ Testing some nice stuff :)
    Este projeto irá ser continuado mas fica por aqui neste repositório
   ------------------------------------------------------------------------------------------------------------
 
-# 2) Audio Visualization (processing)
+# 4) Audio Visualization (processing)
 
   1) V1 :Demo 1
   2) V2: Demo 2
